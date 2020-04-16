@@ -3,10 +3,10 @@
 # HAPPY NEW YEAR AFTER LOOP FINISHES
 
 
-def countdown
-  while countdown > 0
- puts "SECONDS(S)!"
- countdown += 1
+def countdown(seconds)
+  while seconds > 0
+ puts "#{seconds} SECONDS(S)!"
+ countdown -= 1
 end
 
 
