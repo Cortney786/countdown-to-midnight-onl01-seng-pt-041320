@@ -1,13 +1,11 @@
-#write your code here
+# while countdown to 0 
+# countdown by SECOND(S)!
+# HAPPY NEW YEAR AFTER LOOP FINISHES
 
-def countdown
-  
+
+def countdown(seconds)
+  while countdown > 10
+  puts "HAPPY NEW YEAR!"
 end
 
 
-
-x = 1
-while x < 10
-  puts "#{x} is less than 10"
-  x += 1
-end
