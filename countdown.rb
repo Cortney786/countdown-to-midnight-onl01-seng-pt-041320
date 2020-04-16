@@ -4,7 +4,6 @@
 
 
 def countdown(seconds)
-  while countdown > 10
 end
 
 
