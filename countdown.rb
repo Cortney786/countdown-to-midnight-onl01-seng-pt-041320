@@ -4,7 +4,7 @@
 
 
 def countdown
-  while countdown > 10
+  while countdown > 0
  puts "SECONDS(S)!"
  countdown += 1
 end
